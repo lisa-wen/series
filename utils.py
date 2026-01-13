@@ -50,7 +50,6 @@ container_style = f"""
 
 
                 .rec:after {{
-                    content: '⇩';
                     position: absolute;
                     bottom: 5px;
                     right: 10px;
